@@ -4,14 +4,11 @@
     * Board games
     * Wood working
     * Video Games
-    * Flying Drones
-    * Camping
-    * Dogs
+    * 3D Printing
     
 - 🌱 I’m currently learning ...
     * Python
-    * R
-    * Working on my Master's of Data Science
+    * Fusion 360
     
 - 💞️ I’m looking to collaborate on ...
     * Nothing right now
