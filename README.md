@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning ...
     * Python
     * Fusion 360
+    * German
     
 - 💞️ I’m looking to collaborate on ...
     * Nothing right now
